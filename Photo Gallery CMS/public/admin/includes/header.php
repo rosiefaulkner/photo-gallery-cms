@@ -1,3 +1,7 @@
+<?php ob_start(); ?>
+<?php include("init.php"); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
