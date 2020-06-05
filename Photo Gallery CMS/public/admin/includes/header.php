@@ -1,5 +1,5 @@
 <?php ob_start(); ?>
-<?php include("init.php"); ?>
+<?php require_once("init.php"); ?>
 
 
 <!DOCTYPE html>
@@ -13,7 +13,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin - Bootstrap Admin Template</title>
+    <title>Photo Space</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
